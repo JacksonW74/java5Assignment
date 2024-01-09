@@ -51,5 +51,7 @@ Submission text box format
 https://github.com/JacksonW74/java5Assignment
 
 
-    Video URL:     https://youtu.be/your_video_information_here
+    Video URL:     
+    
+https://youtu.be/W4rxXyTwm_s
 
